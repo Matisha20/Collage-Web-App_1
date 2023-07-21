@@ -1,0 +1,58 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #f2cf67, #eea14e, #f6ae20, #f0a207, #d9a300);
+}
+h1
+{
+ font-family:Arial;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(185, 115, 242);
+    font-family:sans-serif;
+}
+h4
+{
+    text-decoration-color:mediumseagreen;
+    font-family:serif;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-color:rgb(237, 82, 82);
+}
+img
+{
+width:30%;
+box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+border-radius:100px;
+}
+img:hover
+{
+    border-radius: 360px;
+}
